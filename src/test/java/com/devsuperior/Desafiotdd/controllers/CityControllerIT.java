@@ -1,4 +1,4 @@
-package com.devsuperior.Desafiotdd;
+package com.devsuperior.Desafiotdd.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;

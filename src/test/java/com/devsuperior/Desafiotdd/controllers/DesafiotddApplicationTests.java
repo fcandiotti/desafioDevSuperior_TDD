@@ -1,4 +1,4 @@
-package com.devsuperior.Desafiotdd;
+package com.devsuperior.Desafiotdd.controllers;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
