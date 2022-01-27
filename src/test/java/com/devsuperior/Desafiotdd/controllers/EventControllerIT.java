@@ -1,4 +1,4 @@
-package com.devsuperior.Desafiotdd;
+package com.devsuperior.Desafiotdd.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
