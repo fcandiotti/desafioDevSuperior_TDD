@@ -73,3 +73,5 @@ public class EventDTO implements Serializable {
         this.cityId = cityId;
     }
 }
+
+
